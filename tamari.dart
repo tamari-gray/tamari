@@ -1,7 +1,10 @@
+import 'roll_r.dart';
+
 class Tamari {
   pronounceName() {
-    print( 'tah' + 'mah' + rollR(rollStrength.medium) + 'eey');
+    print('tah' + 'mah' + rollR(rollStrength.medium) + 'eey');
   }
-  String nickname() => 'tam';
+
+  nickname() => print('tam');
   bool isCool() => true;
 }

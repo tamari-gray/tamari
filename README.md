@@ -1,2 +1,2 @@
-# tamari
-just a bio ;)
+# Tamari
+just a bio ;) @nick i got so carried away haha
