@@ -1,5 +1,5 @@
 # Tamari
-just a bio ;) @nick i got so carried away haha
+fun bio thing for adventures in intro :) @nick i got so carried away haha
 
 
 ### How to use
